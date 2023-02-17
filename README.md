@@ -57,7 +57,7 @@ crontab -e
 Screenshots
 ---------------------------------
 
-![image](https://user-images.githubusercontent.com/47386222/219615952-b3ef1c72-cfdd-48c2-8ea6-ae44c02ba19f.png)
+![image](https://user-images.githubusercontent.com/47386222/219616288-b84536df-3a8e-493d-bec2-aaf14dacba84.png)
 
 ![image](https://user-images.githubusercontent.com/47386222/219616043-f96f2bc3-8dd2-4750-b921-8ad8307e8627.png)
 
