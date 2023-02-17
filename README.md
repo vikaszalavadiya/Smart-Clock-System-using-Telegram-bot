@@ -56,12 +56,9 @@ crontab -e
 
 Screenshots
 ---------------------------------
-
+![image](https://user-images.githubusercontent.com/47386222/219616796-aa5bc192-eb6d-474f-960d-fa867222f761.png)
 ![image](https://user-images.githubusercontent.com/47386222/219616288-b84536df-3a8e-493d-bec2-aaf14dacba84.png)
 
-![image](https://user-images.githubusercontent.com/47386222/219616043-f96f2bc3-8dd2-4750-b921-8ad8307e8627.png)
-
-![image](https://user-images.githubusercontent.com/47386222/219616098-8e396c06-7627-4a4c-ba10-2e619812c6ef.png)
-
-![image](https://user-images.githubusercontent.com/47386222/219616150-8e9a03d1-299a-4c3a-aa14-bba211132693.png)
+![image](https://user-images.githubusercontent.com/47386222/219616950-5e5d8edf-b4de-4c90-a460-b78026977b01.png)
+![image](https://user-images.githubusercontent.com/47386222/219617003-581dfd4c-12e2-412d-8d5d-b2236a5ca488.png)
 
