@@ -50,9 +50,9 @@ Set to Auto Run Program  (Edit crontrab file)
 ---------------------------------
 
 crontab -e  
-@reboot sudo ifconfig wlan0 up
-@reboot anydesk
-@reboot sleep 1;sudo /usr/bin/python3 /home/pi/clock_system/main.py &
+@reboot sudo ifconfig wlan0 up  
+@reboot anydesk  
+@reboot sleep 1;sudo /usr/bin/python3 /home/pi/clock_system/main.py &  
 
 Screenshots
 ---------------------------------
